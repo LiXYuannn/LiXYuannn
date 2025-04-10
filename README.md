@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
+  ## Here is Luxynth!🎉
 
-<!--
-**LiXYuannn/LiXYuannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏠 Hometown: Ningbo,Zhejiang🗺️
+- 🎂 Birthday： 2006.8.9☀️
+- 🔭 School: ZJSU🏫
+- 🌱 Learning about: DeepLearning & MachineLearning 🧠
 
-Here are some ideas to get you started:
+   // To lay a solid foundation for learning MLLMs. 📚
+- 📫 How to reach me: 
+    - 📮 mail：LiXY0809@outlook.com
+    - 🐧 QQ：2954045346
+    - 💬 WeChat: LLLxy060809
+- ⚡ Fun fact: 
+    Perhaps I myself am always funner than the fact itself.
+  
+————💖🥑🥥📌🧩🐰🦋💡————
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## MY REPO
+**Which collects my progress on deep-learning**
+- [lxy-dl-notebook](/https://www.github.com/LiXYuannn/lxy-dl-notebook/)
+**Which collects my progress on machine-learning**
+- [lxy-dl-notebook](/https://www.github.com/LiXYuannn/lxy-ml-notebook/)
