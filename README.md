@@ -4,11 +4,8 @@
 - 🎂 Birthday： 2006.8.9☀️
 - 🔭 School: ZJSU🏫
 - 🌱 Learning about: DeepLearning & MachineLearning 🧠
-
-   // To lay a solid foundation for learning MLLMs. 📚
 - 📫 How to reach me: LiXY0809@outlook.com
-- ⚡ Fun fact: 
-    Perhaps I myself am always funner than the fact itself🤪.
+- ⚡ Fun fact: Perhaps I myself am always funner than the fact itself🤪.
   
 ————💖🥑🥥📌🧩🐰🦋💡————
 
