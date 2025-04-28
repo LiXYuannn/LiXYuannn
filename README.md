@@ -2,6 +2,7 @@
 
 - 🏠 Hometown: Ningbo,Zhejiang🗺️
 - 🎂 Birthday： 2006.8.9☀️
+- 👸🏻 MBTI: ENFJ-T
 - 🔭 School: ZJSU🏫
 - 🌱 Learning about: DeepLearning & MachineLearning 🧠
 - 📫 How to reach me: LiXY0809@outlook.com
