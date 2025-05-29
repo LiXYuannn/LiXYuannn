@@ -6,7 +6,7 @@
 - 🔭 School: ZJSU🏫
 - 🌱 Learning about: DeepLearning & MachineLearning 🧠
 - 📫 How to reach me: LiXY0809@outlook.com
-- ⚡ Fun fact: Perhaps I myself am always funner than the fact itself🤪.
+- ⚡ Fun fact: Perhaps I myself am always funnier than the fact itself🤪.
   
 ————💖🥑🥥📌🧩🐰🦋💡————
 
