@@ -10,6 +10,12 @@
   
 ————💖🥑🥥📌🧩🐰🦋💡————
 
+## 📄 Publications
+
+- **Learning to Falsify: Hierarchical Multiple Instance Learning for High Resolution AI-Generated Image Detection**  
+  *Co-author* · ACMMM 2026 (Accepted)  
+  [OpenReview](https://openreview.net/forum?id=omGD0W5ua0)
+
 ## MY REPO
 **Which collects my progress on deep-learning**
 - lxy-dl-notebook
